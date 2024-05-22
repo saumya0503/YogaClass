@@ -1,0 +1,1097 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html{
+  overflow-x: hidden;
+}
+
+.container1 {
+  width: 1440px;
+  height: 977px;
+  background-color: #f4f9f4;
+}
+
+.container2 {
+  width: 1440px;
+  height: 974px;
+  background-color: #6c9894;
+}
+
+.container3 {
+  width: 1440px;
+  height: 974px;
+  background: url(images/Background.png);
+}
+
+.container4 {
+  width: 1440px;
+  height: 974px;
+  background-color: #6c9894;
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr;
+
+}
+
+.container5 {
+  width: 1440px;
+  height: 974px;
+  background: url(images/Background2.png);
+}
+
+.container6 {
+  width: 1440px;
+  height: 974px;
+  background-color: #6c9894;
+  margin: 0;
+}
+
+.container7 {
+  width: 1440px;
+  height: 974px;
+  background: url(images/Image\ \(1\).png);
+}
+
+.container8 {
+  width: 1440px;
+  height: 793px;
+  background-color: #6c9894;
+}
+
+.container9 {
+  width: 1440px;
+  height: 500px;
+  background-color: #f4f9f4;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.navigation-bar ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  padding-left: 31px;
+}
+
+.navigation-bar ul li {
+  padding: 0px 12px;
+  margin: 0px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  top: 56px;
+
+}
+
+.navigation-bar ul li a {
+  font-size: 21px;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  color: #444444;
+  font-family: "Baloo Bhai";
+  text-decoration: none;
+  margin: 0 60px;
+  transform: color 0.3s;
+}
+
+.navigation-bar ul li a:hover {
+  font-weight: 600;
+}
+
+.image {
+  display: inline;
+}
+
+.text {
+  position: relative;
+  display: inline;
+  top: -32px;
+}
+
+.im {
+  width: 653px;
+  height: 653px;
+  color: #bed2ce;
+  position: relative;
+  top: 70px;
+  left: 50px;
+}
+
+.im1 {
+  position: relative;
+  top: -18px;
+  left: 11px;
+}
+
+.im2 {
+  width: 374px;
+  height: 374px;
+  border-radius: 187px;
+  background-color: #6c9994;
+  border: 4px solid #bed2ce;
+  position: relative;
+  left: -32.5%;
+  top: -6.7%;
+}
+
+.im3 {
+  object-fit: cover;
+  color: #bed2ce;
+  margin: 25px -39px 0;
+  position: relative;
+  top: -37%;
+}
+
+.h1 {
+  font-size: 100px;
+  color: #6c9894;
+  font-family: 'Baloo Bhai';
+  text-align: right;
+  margin: 0px 97px 0 51%;
+  position: relative;
+  top: -35%;
+}
+
+.p1 {
+  width: 550px;
+  height: 100px;
+  font-size: 21px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  margin: 0 20px 0 780px;
+  position: relative;
+  top: -35%;
+}
+
+.join {
+  font-size: 17px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #fefefc;
+  font-weight: 700;
+  font-family: "Lato";
+  width: 159px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #6c9894;
+  margin: 25px 20px 0 969px;
+  text-align: center;
+  padding-top: 6px;
+  cursor: pointer;
+  border-color: #6c9894;
+  position: relative;
+  top: -99%;
+}
+
+
+.p2 {
+  font-size: 75px;
+  color: #f4f9f4;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  padding-top: 77px;
+}
+
+.p3 {
+  width: 800px;
+  font-size: 30px;
+  color: #f4f9f4;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  padding-left: 307px;
+}
+
+.i4 {
+  padding-left: 100px;
+  position: absolute;
+}
+
+.i5 {
+  width: 310px;
+  height: 310px;
+  border-radius: 187px;
+  background-color: #6c9994;
+  border: 4px solid #bed2ce;
+  position: relative;
+  left: 9%;
+  top: 32px;
+}
+
+.i6 {
+  width: 310px;
+  height: 310px;
+  border-radius: 187px;
+  background-color: #6c9994;
+  border: 4px solid #bed2ce;
+  position: relative;
+  left: 16%;
+  top: 32px;
+}
+
+.i7 {
+  width: 310px;
+  height: 310px;
+  border-radius: 187px;
+  background-color: #6c9994;
+  border: 4px solid #bed2ce;
+  position: relative;
+  left: 24%;
+  top: 32px;
+}
+
+.pp {
+  height: 121px;
+  padding-top: 77px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
+}
+
+.pp1 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+}
+
+.p4 {
+  font-size: 37px;
+  color: #f4f9f4;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  padding: 10px 0 0 4px;
+}
+
+.p5 {
+  width: 443px;
+  height: 77px;
+  font-size: 22px;
+  color: #f4f9f4;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  margin-top: 0;
+}
+
+.pp3 {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+}
+
+.pp4 {
+  display: flex;
+  margin-top: 29px;
+}
+
+.i9 {
+  grid-template-columns: auto auto;
+  position: absolute;
+}
+
+.h2 {
+  width: 370px;
+  height: 100px;
+  position: relative;
+  font-size: 75px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  left: 550px;
+  margin: 74px 0;
+}
+
+.p6 {
+  position: relative;
+  width: 1000px;
+  height: 219px;
+  top: 55%;
+  font-size: 30px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  right: 109px;
+  margin-top: 50px;
+}
+
+.i10 {
+  justify-content: space-around;
+  padding: 138px 20px 0px 114px;
+}
+
+
+.textsss {
+  display: inline;
+}
+
+.imagess {
+  display: inline;
+}
+
+.h3 {
+  font-size: 75px;
+  color: #f4f9f4;
+  font-family: "Baloo Bhai";
+  margin: 0;
+  text-align: left;
+  margin: 209px 49px 0 100px;
+  width: 538px;
+  height: 204px;
+  line-height: 95px;
+}
+
+.i11 {
+  margin: 0;
+  width: 100%;
+  height: 974px;
+}
+
+
+.p7 {
+  width: 574px;
+  height: 210px;
+  font-size: 30px;
+  color: #f4f9f4;
+  font-weight: 400;
+  font-family: "Montserrat";
+  box-sizing: border-box;
+  margin: 0 30px 0 100px;
+}
+
+
+.join1 {
+  width: 322px;
+  height: 65px;
+  border-radius: 4px;
+  background-color: #f4f9f4;
+  font-size: 25px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  padding-top: 4px;
+  box-sizing: border-box;
+  margin: 0 49px 0 100px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.imagenew {
+  display: inline;
+}
+
+.textnew {
+  display: inline;
+}
+
+.i13 {
+  position: absolute;
+  margin: 98px 76px;
+}
+
+.i12 {
+  opacity: 0.200;
+  color: #bed2ce;
+  position: relative;
+  margin-top: 146px;
+  top: -96%;
+  right: -65%;
+}
+
+.h4 {
+  font-size: 75px;
+  width: 565px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  margin: 0;
+  text-align: left;
+  position: relative;
+  top: 25%;
+  left: 57%;
+  line-height: 75px;
+}
+
+.p8 {
+  width: 575px;
+  height: 170px;
+  font-size: 30px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+  margin: 19% 0px 0px 57%;
+}
+
+.join2 {
+  width: 322px;
+  height: 65px;
+  border-radius: 4px;
+  background-color: #6c9894;
+  border-color: #6c9894;
+  font-size: 25px;
+  color: #f4f9f4;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  padding-top: 6px;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  margin: 2% 30% 0px 57%;
+  cursor: pointer;
+}
+
+.h5 {
+  font-size: 75px;
+  color: #f4f9f4;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  margin: 0;
+  padding-top: 85px;
+}
+
+.p9 {
+  width: 800px;
+  height: 150px;
+  font-size: 30px;
+  color: #f4f9f4;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  padding: 0 324px;
+  margin-bottom: 40px;
+  margin-top: 0;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.card {
+  width: 372px;
+  height: 493px;
+  border-radius: 8px;
+  background-color: #f4f9f4;
+  margin: 0 56px;
+}
+
+.name {
+  font-size: 37px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  padding-top: 24px;
+}
+
+.price {
+  font-size: 37px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.btext {
+  font-size: 22px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  padding: 0 19px;
+}
+
+.register {
+  width: 322px;
+  height: 65px;
+  border-radius: 4px;
+  background-color: #6c9894;
+  margin: 33px 24px;
+  font-size: 25px;
+  color: #ffffff;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.icon {
+  padding: 0 123px;
+}
+
+.i14 {
+  margin: 70px 516px 0;
+  position: absolute;
+}
+
+.i15 {
+  position: relative;
+  margin: 112px 559px 0;
+}
+
+.p10 {
+  width: 1169px;
+  height: 200px;
+  font-size: 58px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  margin: 48px 0 0 140px;
+}
+
+.p11 {
+  font-size: 58px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  margin-top: 35px;
+}
+
+.p12 {
+  font-size: 75px;
+  color: #f4f9f4;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  margin: 0;
+  padding: 195px 127px 0 127px;
+  text-transform: uppercase;
+}
+
+.p13 {
+  width: 1035px;
+  height: 120px;
+  font-size: 30px;
+  color: #f4f9f4;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  margin: 10px;
+  padding: 0 187px;
+}
+
+.email {
+  width: 659px;
+  height: 63px;
+  background-color: #ffffff;
+  opacity: 0.502;
+  font-size: 25px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+  border-radius: 33px;
+  margin: 0px 264px;
+  padding-left: 23px;
+  position: absolute;
+}
+
+.subscribe {
+  width: 222px;
+  height: 65px;
+  border-radius: 33px;
+  background-color: #f4f9f4;
+  font-size: 25px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  text-align: center;
+  position: relative;
+  margin: 0 0 0 62%;
+  cursor: pointer;
+}
+
+.title {
+  font-size: 33px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  padding-top: 75px;
+}
+
+.title1 {
+  font-size: 33px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  padding-top: 75px;
+  padding-left: 30px;
+}
+
+.title2 {
+  font-size: 33px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  padding-top: 75px;
+  padding-left: 30px;
+}
+
+.title3 {
+  font-size: 33px;
+  color: #6c9894;
+  font-family: "Baloo Bhai";
+  padding-top: 75px;
+}
+
+.lorem {
+  width: 510px;
+  height: 244px;
+  font-size: 25px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+}
+
+.col2>ul {
+  font-size: 25px;
+  line-height: 44px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+}
+
+.col3>ul {
+  font-size: 25px;
+  line-height: 44px;
+  color: #6c9894;
+  font-family: "Myriad Pro";
+}
+
+.col4>ul {
+  font-size: 25px;
+  line-height: 44px;
+  color: #6c9894;
+  font-weight: 400;
+  font-family: "Montserrat";
+  padding: 0;
+  text-decoration: none;
+}
+
+
+.col4>ul>li>a {
+  text-decoration: none;
+  color: #6c9894;
+  transition: all 0.3s;
+}
+
+.col4>ul>li>a:hover {
+  text-decoration: underline;
+  color: #6c9894;
+}
+
+.menu-button {
+  display: none;
+}
+
+.dropdown-options {
+  display: none;
+}
+
+.newimg {
+  display: none;
+}
+
+
+@media (max-width: 365px) {
+  body {
+      width: 350px;
+  }
+
+  .navigation-bar {
+      display: none;
+  }
+
+  .image {
+      position: relative;
+      left: 24%;
+  }
+
+  .container1 {
+      height: 100%;
+  }
+
+  header {
+      background-color: #96bab8;
+  }
+
+  .menu-button {
+      display: inline-block;
+      border: none;
+      border-radius: 0.375rem;
+      font-size: 1.5rem;
+      padding: 0.5rem 0.9rem;
+      font-weight: 900;
+      position: relative;
+      left: 85.5%;
+      top: -4px;
+  }
+
+  .menu-icon {
+      height: 4rem;
+      width: 4.5rem;
+  }
+
+  .dropdown-options {
+      display: none;
+      position: absolute;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.4);
+      z-index: 1;
+  }
+
+  .menu-button:hover+.dropdown-options,
+  .dropdown-options:hover {
+      display: block;
+      right: -292%;
+  }
+
+  .dropdown-options a {
+      display: block;
+      color: black;
+      background-color: #fefefc;
+      padding: 16px 53px;
+      text-decoration: none;
+      font-size: 28px;
+      font-family: "Montserrat";
+  }
+
+  .dropdown-options a:hover {
+      color: #0a0a23;
+      background-color: #ddd;
+      border-radius: 5px;
+  }
+
+
+  .text {
+      display: flex;
+      flex-direction: column;
+      height: 580px;
+      justify-content: center;
+      position: relative;
+      left: -20%;
+      top: 33%;
+  }
+
+  .h1 {
+      top: -5%;
+      left: -57%;
+      width: 100%;
+      font-size: 118px;
+  }
+
+  .p1 {
+      top: -6%;
+      left: -2%;
+      font-size: 29px;
+  }
+
+  .join {
+      top: 10%;
+      left: -7%;
+      width: 289px;
+      height: 49px;
+      font-size: 22px;
+  }
+
+  .im1 {
+      position: relative;
+      top: 10px;
+      left: 19px;
+      z-index: 2;
+  }
+
+  .im2 {
+      top: -68px;
+      position: relative;
+  }
+
+  .p2 {
+      text-align: center;
+  }
+
+  .p13 {
+      display: none;
+  }
+
+  .container9 {
+      background-color: #f4f9f4;
+      text-align: center;
+      height: 374px;
+  }
+
+  .uldiv9 {
+      display: flex;
+      margin: 0 10px;
+  }
+
+  .title3 {
+      font-size: 44px;
+  }
+
+  .lidiv9 {
+      margin: 0 10px;
+      font-size: 36px;
+  }
+
+  .col1 {
+      display: none;
+  }
+
+  .col2 {
+      display: none;
+  }
+
+  .col3 {
+      display: none;
+  }
+
+  .p12 {
+      font-size: 104px;
+  }
+
+  .subscribe {
+      margin: 131px 0 0 40%;
+      font-size: 33px;
+  }
+
+  .email {
+      width: 860px;
+      margin-top: 10px;
+  }
+
+  .im3 {
+      display: none;
+  }
+
+  .i15 {
+      position: relative;
+      margin: 64px 421px 0;
+      height: 550px;
+  }
+
+  .p10 {
+      width: 28%;
+      font-size: 35px;
+  }
+
+  .p11 {
+      font-size: 58px;
+      color: #6c9894;
+      font-family: "Baloo Bhai";
+      text-align: center;
+      position: relative;
+      top: -18%;
+      left: 21%;
+  }
+
+  .p9 {
+      display: none;
+  }
+
+  .cards {
+      display: flex;
+      flex-direction: column;
+  }
+
+  .card {
+      width: 544px;
+      height: 477px;
+      border-radius: 42px;
+      margin: 46px auto;
+  }
+
+  .btext {
+      display: none;
+  }
+
+  .name {
+      font-size: 59px;
+  }
+
+  .price {
+      font-size: 42px;
+  }
+
+  .register {
+      margin: 6px 110px;
+  }
+
+  .icon {
+      padding: 28px 222px;
+  }
+
+  .container6 {
+      height: 100%;
+  }
+
+  .i12 {
+      display: none;
+  }
+
+  .p6 {
+      display: none;
+  }
+
+  .pp4 {
+      display: flex;
+      flex-direction: column;
+      left: 31%;
+      top: -83px;
+      position: relative;
+  }
+
+  .i10 {
+      height: 330px;
+      width: 330px;
+  }
+
+  .h2 {
+      top: 31%;
+      height: 100%;
+      width: 100%;
+      font-size: 90px;
+      left: 106%;
+  }
+
+  .container3 {
+      height: 100%;
+      background-size: cover;
+  }
+
+  .p3 {
+      display: none;
+  }
+
+  .p2 {
+      width: 100%;
+      font-size: 96px;
+      display: block;
+  }
+
+  .i4 {
+
+      display: none;
+  }
+
+  .cont2img {
+      display: flex;
+      flex-direction: column;
+  }
+
+  .i6 {
+      top: 46px;
+      left: 138px
+  }
+
+  .i7 {
+      left: 10%;
+      top: 63px;
+  }
+
+  .container2 {
+      height: 1390px;
+  }
+
+  .pp {
+      display: flex;
+      flex-direction: column;
+      top: -40%;
+      position: relative;
+  }
+
+  .pp1 {
+      display: flex;
+      flex-direction: column;
+      width: fit-content;
+      position: relative;
+      left: 70%;
+      top: -900px;
+  }
+
+  .p5 {
+      font-size: 40px;
+      height: 319px;
+      position: relative;
+      top: -108px;
+      right: 78px;
+  }
+
+  .p4 {
+      font-size: 47px;
+      height: 397px;
+      position: relative;
+      top: 27px;
+      right: 21px;
+      padding: 95px
+  }
+
+  .container4 {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+  }
+
+  .textsss {
+      display: inline;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      top: -98px;
+      margin: 0 auto;
+  }
+
+  .h3 {
+      font-size: 90px;
+      width: 100%;
+      height: 100%;
+  }
+
+  .p7 {
+      width: 600px;
+      height: 251px;
+      font-size: 40px;
+      text-align: center;
+      left: 70px;
+      position: relative;
+      margin-top: 30px;
+  }
+
+  .join1 {
+      margin: 0 33%;
+  }
+
+  .imagess {
+      height: 100%;
+  }
+
+  .i13 {
+      width: 100%;
+      height: 1080px;
+      position: static;
+      margin: 0;
+  }
+
+  .container5 {
+      height: 100%;
+  }
+
+  .h4 {
+      width: 100%;
+      margin: 0 auto;
+      left: 27%;
+      top: 74px;
+      font-size: 90px;
+  }
+
+  .p8 {
+      font-size: 44px;
+      height: 100%;
+      margin: 127px 30% 42px 30%;
+      text-align: center;
+  }
+
+  .join2 {
+      margin: 49px 38%;
+  }
+}

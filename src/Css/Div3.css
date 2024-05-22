@@ -1,0 +1,618 @@
+.main-content-wrapper {
+  height: 5583px;
+  margin: -79px 0 0;
+  overflow: hidden;
+  position: relative;
+  width: 100%; /* 1440px / 1440px = 100% */
+  z-index: 38;
+}
+.background-3 {
+  left: 0;
+  min-height: 793px;
+  padding: 277px 0 217px;
+  position: absolute;
+  top: 4790px;
+  width: 100%; /* 1440px / 1440px = 100% */
+  background: #6c9894;
+}
+.text-10 {
+  margin: 0 auto;
+  position: relative;
+  width: 57.15278%; /* 823px / 1440px = 57.15278% */
+}
+.title-6 {
+  color: #f4f9f4;
+  font-family: 'Baloo Bhai', display;
+  font-size: 468.75012%; /* 75px / 16px = 468.75% */
+  text-align: center;
+}
+.body-text-6 {
+  margin: 42px auto 0;
+  width: 93.43864%; /* 769px / 823px = 93.43864% */
+  color: #f4f9f4;
+  font-size: 185.77756%; /* 29.72px / 16px = 185.75% */
+  line-height: 1.2;
+  text-align: center;
+}
+.form {
+  height: 65px;
+  left: 1.388889%;
+  margin: 15px auto 0;
+  position: relative;
+  width: 53.47222%; /* 770px / 1440px = 53.47222% */
+}
+.shape-holder-3 {
+  left: 0;
+  min-height: 63px;
+  padding: 0 3.636364%; /* 28px / 770px = 3.636364% */
+  position: absolute;
+  top: 2px;
+  width: 85.58442%; /* 659px / 770px = 85.58442% */
+  background: url(images/shape_3.png) no-repeat center 0;
+}
+.text-11 {
+  opacity: 0.5;
+  font-size: 156.25%; /* 25px / 16px = 156.25% */
+  line-height: 63px;
+}
+.button-3 {
+  left: 71.16883%;
+  min-height: 65px;
+  position: absolute;
+  top: 0;
+  width: 28.83117%; /* 222px / 770px = 28.83117% */
+  -webkit-border-radius: 32.5px;
+  -moz-border-radius: 32.5px;
+  border-radius: 32.5px;
+  background: #f4f9f4;
+  font-family: 'Baloo Bhai', display;
+  font-size: 156.25006%; /* 25px / 16px = 156.25% */
+  line-height: 65px;
+  text-align: center;
+}
+.image {
+  left: 0;
+  min-height: 974px;
+  padding: 75px 10.347222%; /* 149px / 1440px = 10.347222% */
+  position: absolute;
+  top: 3967px;
+  width: 100%; /* 1440px / 1440px = 100% */
+  background: url(images/place_your_image_here_dou.jpg) no-repeat center 0;
+  background-position: center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.shape-holder-4 {
+  left: 2.539405%;
+  margin: 0 auto;
+  padding: 48px 0 46px;
+  position: relative;
+  width: 35.726795%; /* 408px / 1142px = 35.726795% */
+  background: url(images/shape_5.png) no-repeat center 0;
+}
+.mask-4 {
+  display: block;
+  margin: 0 auto;
+  max-width: 314px;
+  width: 76.960785%; /* 314px / 408px = 76.960785% */
+}
+.text-12 {
+  margin: 8px 0 0;
+  position: relative;
+}
+.title-7 {
+  margin: 0 auto;
+  font-size: 364.5833%; /* 58.33px / 16px = 364.5625% */
+  line-height: 1.2;
+  text-align: center;
+}
+.body-text-7 {
+  margin: 42px 0 0;
+  font-family: 'Baloo Bhai', display;
+  font-size: 364.5832%; /* 58.33px / 16px = 364.5625% */
+  text-align: center;
+}
+.background-4 {
+  left: 0;
+  min-height: 974px;
+  padding: 116px 4.930555% 100px; /* 71px / 1440px = 4.930555% */
+  position: absolute;
+  top: 2995px;
+  width: 100%; /* 1440px / 1440px = 100% */
+  background: #6c9894;
+}
+.text-13 {
+  left: 1.42527%;
+  margin: 0 auto;
+  position: relative;
+  width: 59.399075%; /* 771px / 1298px = 59.399075% */
+}
+.title-8 {
+  color: #f4f9f4;
+  font-family: 'Baloo Bhai', display;
+  font-size: 468.75012%; /* 75px / 16px = 468.75% */
+  text-align: center;
+}
+.body-text-8 {
+  margin: 41px auto 0;
+  color: #f4f9f4;
+  font-size: 185.77756%; /* 29.72px / 16px = 185.75% */
+  line-height: 1.2;
+  text-align: center;
+}
+.row {
+  left: 1.001541%;
+  margin: 46px auto 0;
+  position: relative;
+  width: 97.99692%; /* 1272px / 1298px = 97.99692% */
+}
+.card-4 {
+  float: left;
+  min-height: 493px;
+  padding: 36px 0 27px;
+  position: relative;
+  width: 29.245283%; /* 372px / 1272px = 29.245283% */
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background: #f4f9f4;
+}
+.title-copy-2 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 230.90894%; /* 36.95px / 16px = 230.9375% */
+  text-align: center;
+}
+.title-9 {
+  margin: 9px 0 0;
+  font-family: 'Baloo Bhai', display;
+  font-size: 230.90894%; /* 36.95px / 16px = 230.9375% */
+  text-align: center;
+}
+.vector-smart-object {
+  display: block;
+  margin: 23px auto 0;
+  width: 110px;
+}
+.body-text-9 {
+  margin: 46px auto 0;
+  width: 86.55914%; /* 322px / 372px = 86.55914% */
+  font-size: 138.54544%; /* 22.17px / 16px = 138.5625% */
+  line-height: 1.2;
+  text-align: center;
+}
+.button-4 {
+  margin: 28px auto 0;
+  max-width: 322px;
+  min-height: 65px;
+  width: 86.55914%; /* 322px / 372px = 86.55914% */
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: #6c9894;
+  color: #ffffff;
+  font-family: 'Baloo Bhai', display;
+  font-size: 156.25006%; /* 25px / 16px = 156.25% */
+  line-height: 65px;
+  text-align: center;
+}
+.card-5 {
+  float: left;
+  margin: 0 0 0 6.761006%; /* 86px / 1272px = 6.761006% */
+  min-height: 493px;
+  padding: 35px 0 27px;
+  position: relative;
+  width: 29.245283%; /* 372px / 1272px = 29.245283% */
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background: #f4f9f4;
+}
+.title-copy {
+  font-family: 'Baloo Bhai', display;
+  font-size: 230.90894%; /* 36.95px / 16px = 230.9375% */
+  text-align: center;
+}
+.title-10 {
+  margin: 12px 0 0;
+  font-family: 'Baloo Bhai', display;
+  font-size: 230.90894%; /* 36.95px / 16px = 230.9375% */
+  text-align: center;
+}
+.vector-smart-object-2 {
+  display: block;
+  margin: 21px auto 0;
+  width: 110px;
+}
+.body-text-10 {
+  margin: 46px auto 0;
+  width: 86.55914%; /* 322px / 372px = 86.55914% */
+  font-size: 138.54544%; /* 22.17px / 16px = 138.5625% */
+  line-height: 1.2;
+  text-align: center;
+}
+.button-5 {
+  margin: 28px auto 0;
+  max-width: 322px;
+  min-height: 65px;
+  width: 86.55914%; /* 322px / 372px = 86.55914% */
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: #6c9894;
+  color: #ffffff;
+  font-family: 'Baloo Bhai', display;
+  font-size: 156.25006%; /* 25px / 16px = 156.25% */
+  line-height: 65px;
+  text-align: center;
+}
+.card-6 {
+  float: left;
+  margin: 0 0 0 5.503145%; /* 70px / 1272px = 5.503145% */
+  min-height: 493px;
+  padding: 33px 1.965409% 27px; /* 25px / 1272px = 1.965409% */
+  position: relative;
+  width: 29.245283%; /* 372px / 1272px = 29.245283% */
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background: #f4f9f4;
+}
+.title-11 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 230.90894%; /* 36.95px / 16px = 230.9375% */
+  text-align: center;
+}
+.title-12 {
+  margin: 12px 0 0;
+  font-family: 'Baloo Bhai', display;
+  font-size: 230.90894%; /* 36.95px / 16px = 230.9375% */
+  text-align: center;
+}
+.vector-smart-object-3 {
+  display: block;
+  margin: 23px auto 0;
+  width: 110px;
+}
+.body-text-11 {
+  margin: 46px auto 0;
+  font-size: 138.54544%; /* 22.17px / 16px = 138.5625% */
+  line-height: 1.2;
+  text-align: center;
+}
+.button-6 {
+  margin: 28px auto 0;
+  max-width: 322px;
+  min-height: 65px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: #6c9894;
+  color: #ffffff;
+  font-family: 'Baloo Bhai', display;
+  font-size: 156.25006%; /* 25px / 16px = 156.25% */
+  line-height: 65px;
+  text-align: center;
+  position: relative;
+  left: 25%;
+  cursor: pointer;
+}
+.group-5 {
+  height: 1144px;
+  left: 0;
+  position: absolute;
+  top: 1909px;
+  width: 100%; /* 1440px / 1440px = 100% */
+}
+.background-5 {
+  height: 974px;
+  left: 0;
+  position: absolute;
+  top: 114px;
+  width: 100%; /* 1440px / 1440px = 100% */
+  background: #f4f9f4;
+}
+.shape-6 {
+  left: 65.34722%;
+  max-width: 499px;
+  position: absolute;
+  top: 0;
+  width: 34.65278%; /* 499px / 1440px = 34.65278% */
+}
+.content {
+  left: 5.486111%;
+  position: absolute;
+  top: 224px;
+  width: 91.736115%; /* 1321px / 1440px = 91.736115% */
+}
+.place-your-image-here-double-click-to-edit {
+  float: left;
+  max-width: 578px;
+  width: 43.75473%; /* 578px / 1321px = 43.75473% */
+}
+.col {
+  float: right;
+  margin: 154px 0 0;
+  position: relative;
+  width: 43.67903%; /* 577px / 1321px = 43.67903% */
+}
+.text-17 {
+  position: relative;
+  width: 100%; /* 577px / 577px = 100% */
+}
+.title-13 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 468.75012%; /* 75px / 16px = 468.75% */
+  line-height: 1.2;
+}
+.body-text-12 {
+  margin: 32px 0 0 0.17331%; /* 1px / 577px = 0.17331% */
+  width: 99.82669%; /* 576px / 577px = 99.82669% */
+  font-size: 185.77756%; /* 29.72px / 16px = 185.75% */
+  line-height: 1.2;
+}
+.button-7 {
+  margin: 58px 0 0;
+  min-height: 65px;
+  padding: 0 15.771231%; /* 91px / 577px = 15.771231% */
+  position: relative;
+  width: 55.805893%; /* 322px / 577px = 55.805893% */
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: #6c9894;
+  color: #f4f9f4;
+  font-family: 'Baloo Bhai', display;
+  font-size: 146.25006%; /* 25px / 16px = 156.25% */
+  line-height: 65px;
+  text-align: center;
+  cursor: pointer;
+}
+.background-6 {
+  left: 0;
+  position: absolute;
+  top: 1050px;
+  width: 100%; /* 1440px / 1440px = 100% */
+  background: #6c9894;
+}
+.content-2 {
+  left: 3.090278%;
+  margin: 0 auto;
+  position: relative;
+  width: 93.81944%; /* 1351px / 1440px = 93.81944% */
+}
+.col-4 {
+  float: left;
+  margin: 241px 5.033309% 0 0; /* 68px / 1351px = 5.033309% */
+  position: relative;
+  width: 43.00518%; /* 581px / 1351px = 43.00518% */
+}
+.text-19 {
+  margin: 0 0 0 0.344234%; /* 2px / 581px = 0.344234% */
+  position: relative;
+  width: 99.65577%; /* 579px / 581px = 99.65577% */
+}
+.title-14 {
+  color: #f4f9f4;
+  font-family: 'Baloo Bhai', display;
+  font-size: 468.75012%; /* 75px / 16px = 468.75% */
+  line-height: 1.2;
+}
+.body-text-13 {
+  margin: 9px 0 0 0.518135%; /* 3px / 579px = 0.518135% */
+  width: 99.481865%; /* 576px / 579px = 99.481865% */
+  color: #f4f9f4;
+  font-size: 185.77756%; /* 29.72px / 16px = 185.75% */
+  line-height: 1.2;
+}
+.button-8 {
+  margin: 52px 0 0;
+  min-height: 65px;
+  padding: 0 15.662651%; /* 91px / 581px = 15.662651% */
+  position: relative;
+  width: 55.421688%; /* 322px / 581px = 55.421688% */
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background: #f4f9f4;
+  font-family: 'Baloo Bhai', display;
+  font-size: 146.25006%; /* 25px / 16px = 156.25% */
+  line-height: 65px;
+  text-align: center;
+  cursor: pointer;
+}
+.place-your-image-here-double-click-to-edit-2 {
+  float: left;
+  max-width: 702px;
+  width: 51.96151%; /* 702px / 1351px = 51.96151% */
+}
+.group-3 {
+  height: 1052px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%; /* 1440px / 1440px = 100% */
+}
+.background-7 {
+  height: 1011px;
+  left: 0;
+  position: absolute;
+  top: 41px;
+  width: 100%; /* 1440px / 1440px = 100% */
+}
+.shape-7 {
+  height: 974px;
+  left: 0.069444%;
+  max-width: 1439px;
+  position: absolute;
+  top: 37px;
+  width: 100%;
+  background: #eeeeee;
+}
+.shape-holder-5 {
+  left: 0;
+  padding: 37px 0 0;
+  position: absolute;
+  top: 0;
+  width: 100%; /* 1440px / 1440px = 100% */
+  background: url(images/shape_16.png) no-repeat center 0;
+  background-position: center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.shape-holder-6 {
+  margin: 0 auto;
+  padding: 436px 5.208333% 208px; /* 75px / 1440px = 5.208333% */
+  position: relative;
+  right: 0.486111%;
+  width: 99.02778%; /* 1426px / 1440px = 99.02778% */
+  background: #f4f9f4;
+}
+.card-7 {
+  left: 37.068966%;
+  margin: 0 auto;
+  min-height: 330px;
+  padding: 96px 1.051893% 78px; /* 15px / 1426px = 1.051893% */
+  position: relative;
+  width: 25.862068%; /* 330px / 1276px = 25.862068% */
+  border: 5px solid #6c9894; /*stroke*/
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+.title-15 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 417.75208%; /* 66.84px / 16px = 417.74997% */
+  text-align: center;
+}
+.body-text-14 {
+  margin: 19px auto 0;
+  width: 64.666664%; /* 194px / 300px = 64.666664% */
+  font-size: 165.56575%; /* 26.49px / 16px = 165.5625% */
+  line-height: 1.2;
+  text-align: center;
+}
+.design-3 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 42.22222%; /* 608px / 1440px = 42.22222% */
+}
+.col-2 {
+  float: left;
+  margin: 169px 0 0;
+  position: relative;
+  width: 25.328947%; /* 154px / 608px = 25.328947% */
+  z-index: 0;
+}
+.shape-8 {
+  display: block;
+  position: relative;
+  width: 154px;
+  z-index: 187;
+}
+.shape-9 {
+  display: block;
+  margin: -19px 0 0;
+  position: relative;
+  width: 75px;
+  z-index: 186;
+}
+.shape-10 {
+  float: left;
+  margin: 126px 0 0 1.644737%; /* 10px / 608px = 1.644737% */
+  width: 42px;
+}
+.shape-11 {
+  float: left;
+  margin: 43px 0 0 1.973684%; /* 12px / 608px = 1.973684% */
+  width: 123px;
+}
+.col-5 {
+  float: left;
+  margin: 0 0 0 1.151316%; /* 7px / 608px = 1.151316% */
+  position: relative;
+  width: 42.763157%; /* 260px / 608px = 42.763157% */
+}
+.shape-12 {
+  display: block;
+  margin: 0 0 0 1.538462%; /* 4px / 260px = 1.538462% */
+  max-width: 256px;
+  position: relative;
+  width: 98.46154%; /* 256px / 260px = 98.46154% */
+}
+.shape-13 {
+  display: block;
+  margin: -44px 0 0;
+  position: relative;
+  width: 90px;
+}
+.card-8 {
+  left: 9.097222%;
+  min-height: 330px;
+  padding: 99px 1.041667% 79px; /* 15px / 1440px = 1.041667% */
+  position: absolute;
+  top: 514px;
+  width: 22.916666%; /* 330px / 1440px = 22.916666% */
+  border: 5px solid #6c9894; /*stroke*/
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+.title-16 {
+  font-family: MyriadPro, serif;
+  font-size: 417.75208%; /* 66.84px / 16px = 417.74997% */
+  text-align: center;
+}
+.body-text-15 {
+  margin: 18px auto 0;
+  width: 81.333336%; /* 244px / 300px = 81.333336% */
+  font-family: MyriadPro, serif;
+  font-size: 165.56575%; /* 26.49px / 16px = 165.5625% */
+  line-height: 1.2;
+  text-align: center;
+}
+.card-9 {
+  left: 39.86111%;
+  min-height: 330px;
+  padding: 96px 1.041667% 78px; /* 15px / 1440px = 1.041667% */
+  position: absolute;
+  top: 514px;
+  width: 22.916666%; /* 330px / 1440px = 22.916666% */
+  border: 5px solid #6c9894; /*stroke*/
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+.title-17 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 417.75208%; /* 66.84px / 16px = 417.74997% */
+  text-align: center;
+}
+.body-text-16 {
+  margin: 19px auto 0;
+  width: 64.666664%; /* 194px / 300px = 64.666664% */
+  font-size: 165.56575%; /* 26.49px / 16px = 165.5625% */
+  line-height: 1.2;
+  text-align: center;
+}
+.text-21 {
+  left: 23.26389%;
+  position: absolute;
+  top: 167px;
+  width: 53.541668%; /* 771px / 1440px = 53.541668% */
+}
+.title-18 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 468.75012%; /* 75px / 16px = 468.75% */
+  text-align: center;
+}
+.body-text-17 {
+  margin: 42px 0 0;
+  font-size: 185.77756%; /* 29.72px / 16px = 185.75% */
+  line-height: 1.2;
+  text-align: center;
+}

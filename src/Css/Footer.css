@@ -1,0 +1,112 @@
+.group-9 {
+  margin: -22px 0 0;
+  position: relative;
+  z-index: 6;
+}
+.background-8 {
+  padding: 173px 0 119px;
+  position: relative;
+  background: #f4f9f4;
+}
+.footer {
+  margin: 0 auto;
+  position: relative;
+  right: 0.243056%;
+  width: 91.59722%; /* 1319px / 1440px = 91.59722% */
+}
+.col-1 {
+  float: left;
+  position: relative;
+  width: 37.07354%; /* 489px / 1319px = 37.07354% */
+}
+.title-19 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 208.33325%; /* 33.33px / 16px = 208.31252% */
+}
+.body-text-18 {
+  margin: 30px 0 0;
+  width: 100%; /* 489px / 489px = 100% */
+  font-size: 156.25%; /* 25px / 16px = 156.25% */
+  line-height: 1.2;
+}
+.col-2-2 {
+  float: left;
+  margin: 1px 0 0 7.581501%; /* 100px / 1319px = 7.581501% */
+  position: relative;
+  width: 17.134193%; /* 226px / 1319px = 17.134193% */
+}
+.title-20 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 208.33325%; /* 33.33px / 16px = 208.31252% */
+}
+.body-text-19 {
+  margin: 21px 0 0;
+  font-size: 156.24994%; /* 25px / 16px = 156.25% */
+  line-height: 176.2%; /* 44.05px / 25px = 176.2% */
+}
+.col-3-2 {
+  float: left;
+  margin: 0 0 0 3.108415%; /* 41px / 1319px = 3.108415% */
+  position: relative;
+  width: 14.480667%; /* 191px / 1319px = 14.480667% */
+}
+.title-21 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 208.33325%; /* 33.33px / 16px = 208.31252% */
+}
+.body-text-20 {
+  margin: 22px 0 0;
+  font-family: MyriadPro, serif;
+  font-size: 156.24994%; /* 25px / 16px = 156.25% */
+  line-height: 176.2%; /* 44.05px / 25px = 176.2% */
+}
+.col-4-2 {
+  float: left;
+  margin: 1px 0 0 5.610311%; /* 74px / 1319px = 5.610311% */
+  position: relative;
+  width: 15.011373%; /* 198px / 1319px = 15.011373% */
+}
+.title-22 {
+  font-family: 'Baloo Bhai', display;
+  font-size: 208.33325%; /* 33.33px / 16px = 208.31252% */
+}
+.row-2 {
+  margin: 18px 0 0 1.515152%; /* 3px / 198px = 1.515152% */
+  position: relative;
+  width: 98.48485%; /* 195px / 198px = 98.48485% */
+}
+.social-media {
+  float: left;
+  margin: 9px 0 0;
+  position: relative;
+  width: 15.897436%; /* 31px / 195px = 15.897436% */
+}
+.icon {
+  position: relative;
+}
+.facebook {
+  display: block;
+  margin: 0 auto;
+  width: 31px;
+}
+.twitter {
+  display: block;
+  margin: 22px auto 0;
+  width: 31px;
+}
+.instagram {
+  display: block;
+  margin: 13px auto 0;
+  width: 31px;
+}
+.whatsapp {
+  display: block;
+  margin: 13px auto 0;
+  width: 31px;
+}
+.body-text-21 {
+  float: right;
+  width: 71.28205%; /* 139px / 195px = 71.28205% */
+  font-size: 156.24994%; /* 25px / 16px = 156.25% */
+  line-height: 176.2%; /* 44.05px / 25px = 176.2% */
+}

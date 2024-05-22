@@ -1,0 +1,178 @@
+.group-1 {
+  height: 1371px;
+  overflow: hidden;
+  position: relative;
+  width: 100%; /* 1440px / 1440px = 100% */
+  z-index: 259;
+}
+.background {
+  height: 975px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%; /* 1440px / 1440px = 100% */
+  background: #f4f9f4;
+}
+.design {
+  left: 5.833333%;
+  position: absolute;
+  top: 115px;
+  width: 94.166664%; /* 1356px / 1440px = 94.166664% */
+}
+.shape-holder {
+  float: left;
+  margin: 0 1.917404% 0 0; /* 26px / 1356px = 1.917404% */
+  padding: 135px 0 136px;
+  position: relative;
+  width: 48.15634%; /* 653px / 1356px = 48.15634% */
+  background: url(images/shape_33.png) no-repeat center 0;
+}
+.masking {
+  display: block;
+  margin: 0 auto;
+  width: 58.499233%; /* 382px / 653px = 58.499233% */
+  border: 4px solid #bed2ce; /*stroke*/
+  -webkit-border-radius: 190.9px/190.88px;
+  -moz-border-radius: 190.9px/190.88px;
+  border-radius: 190.9px/190.88px;
+}
+.col-3 {
+  float: left;
+  margin: 247px 0 0;
+  position: relative;
+  width: 49.926254%; /* 677px / 1356px = 49.926254% */
+}
+.text {
+  position: relative;
+  width: 86.55834%; /* 586px / 677px = 86.55834% */
+}
+.title {
+  font-family: 'Baloo Bhai', display;
+  font-size: 613.78784%; /* 98.21px / 16px = 613.8125% */
+  position: relative;
+  left: 20%;
+}
+.body-text {
+  margin: 17px auto 0;
+  width: 85.15359%; /* 499px / 586px = 85.15359% */
+  font-size: 129.42393%; /* 20.71px / 16px = 129.4375% */
+  line-height: 1.2;
+  text-align: center;
+}
+.button {
+  left: 35.778157%;
+  margin: 25px auto 0;
+  min-height: 29px;
+  padding: 0 3.242321%; /* 19px / 586px = 3.242321% */
+  position: relative;
+  width: 29.351536%; /* 172px / 586px = 29.351536% */
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  background: #6c9894;
+  color: #fefefc;
+  font-family: Lato, sans-serif;
+  font-size: 107.85331%; /* 17.26px / 16px = 107.875% */
+  font-weight: bold;
+  letter-spacing: 0.24em;
+  line-height: 29px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.shape {
+  display: block;
+  left: 22.525848%;
+  margin: 18px auto 0;
+  max-width: 372px;
+  position: relative;
+  width: 54.948303%; /* 372px / 677px = 54.948303% */
+}
+.header-2 {
+  left: 2.083333%;
+  position: absolute;
+  top: 0;
+  width: 97.916664%; /* 1410px / 1440px = 97.916664% */
+}
+.shape-holder-2 {
+  float: left;
+  padding: 28px 0 24px;
+  position: relative;
+  width: 7.730496%; /* 109px / 1410px = 7.730496% */
+  background: #a7d7c5;
+}
+.place-your-logo-here-double-click-to-edit {
+  display: block;
+  margin: 0 auto;
+  width: 86px;
+}
+.wrapper-3 {
+  
+  height: 47px;
+  margin: 40px 0 0;
+  position: relative;
+  width: 98%; /* 1301px / 1410px = 92.2695% */
+}
+.text-3 {
+  left: 42.736355%;
+  position: absolute;
+  top: 12px;
+  width: 50.883934%; /* 662px / 1301px = 50.883934% */
+}
+.home {
+  float: left;
+  color: #444444;
+  font-family: 'Baloo Bhai', display;
+  font-size: 129.30806%; /* 20.69px / 16px = 129.3125% */
+  letter-spacing: -0.005em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.text-4 {
+  float: left;
+  margin: 3px 0 0 12.688822%; /* 84px / 662px = 12.688822% */
+  color: #444444;
+  font-family: 'Baloo Bhai', display;
+  font-size: 129.30806%; /* 20.69px / 16px = 129.3125% */
+  letter-spacing: -0.005em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.services {
+  float: left;
+  margin: 2px 0 0 14.652568%; /* 97px / 662px = 14.652568% */
+  color: #444444;
+  font-family: 'Baloo Bhai', display;
+  font-size: 129.30806%; /* 20.69px / 16px = 129.3125% */
+  letter-spacing: -0.005em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.text-5 {
+  float: left;
+  margin-left:80px ; /* 96px / 662px = 14.501511% */
+  color: #444444;
+  font-family: 'Baloo Bhai', display;
+  font-size: 129.30806%; /* 20.69px / 16px = 129.3125% */
+  letter-spacing: -0.005em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.shape-2 {
+  height: 46px;
+  left: 0;
+  position: relative;
+  top: 5rem;
+  
+  width: 100%; /* 1301px / 1301px = 100% */
+  background: rgba(108, 153, 148, 0.13);
+}
+.button-2 {
+  height: 47px;
+  left: 67.870865%;
+  position: absolute;
+  top: 0;
+  width: 10.837817%; /* 141px / 1301px = 10.837817% */
+  background: rgba(108, 152, 148, 0.23);
+  cursor: pointer;  /* Add this line */
+}
